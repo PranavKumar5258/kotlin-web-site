@@ -1,6 +1,6 @@
 # External Sources 
 
-The folder contains external repositories that contributes additional pages.
+
 
 All repositories are included into `external` folder in the project root.
 The path MUST be listed in the `.gitignore` to avoid side effects with git repositories mixtures
