@@ -1,4 +1,4 @@
-
+package vcsRoots
 
 import jetbrains.buildServer.configs.kotlin.vcs.GitVcsRoot
 
