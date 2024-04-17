@@ -1,4 +1,4 @@
-
+import React from 'react';
 
 //import KotlinLogo from '@jetbrains/kotlin-web-site-ui/out/svg/logo.svg';
 
