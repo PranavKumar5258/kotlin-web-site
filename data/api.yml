@@ -1,5 +1,4 @@
-- title: stdlib
-  url: doc/stdlib/index
+
   content:
     - title: kotlin
       url: doc/stdlib/kotlin/index
