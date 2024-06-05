@@ -1,6 +1,4 @@
-<#import "includes/page_metadata.ftl" as page_metadata>
-<#import "includes/header.ftl" as header>
-<#import "includes/footer.ftl" as footer>
+
 <!DOCTYPE html>
 <html class="no-js">
 <head>
